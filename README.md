@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Noura Algohary</h1>
 <h3 align="center">A Data Scientist</h3>
 
-- 🔭 I’m currently working on **a computer vision project**
+- 🔭 I’m currently working on **a Computer Vision Project**
 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 👯 I’m looking to collaborate on **real-world Data Science Projectss**
+- 👯 I’m looking to collaborate on **Real-World Data Science Projectss**
 
 - 🤝 I’m looking for help with **gaining practical experience and building up my skills**
 
