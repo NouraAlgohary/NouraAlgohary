@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 👯 I’m looking to collaborate on **real-world Data Science Projectss**
+- 👯 I’m looking to collaborate on **real-world Data Science Projects**
 
 - 🤝 I’m looking for help with **gaining practical experience and building up my skills**
 
