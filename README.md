@@ -25,4 +25,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NouraAlgohary)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NouraAlgohary&theme=default&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NouraAlgohary&theme=default&show_icons=true)
