@@ -25,4 +25,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NouraAlgohary)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nouraalgohary&show_icons=true&locale=en" alt="nouraalgohary" /></p>
+
+![Noura's github stats](https://github-readme-stats.vercel.app/api?username=NouraAlgohary)
