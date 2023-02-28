@@ -25,4 +25,6 @@
 
 </br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NouraAlgohary)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Noura's github stats](https://github-readme-stats.vercel.app/api?username=NouraAlgohary)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NouraAlgohary)](https://git.io/streak-stats)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Noura's github stats](https://github-readme-stats.vercel.app/api?username=NouraAlgohary) 
+### LeetCode Stats! ([profile](https://leetcode.com/user1572XK/))
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=user1572XK)](https://github.com/KnlnKS/leetcode-stats)
