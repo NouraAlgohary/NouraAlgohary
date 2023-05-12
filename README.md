@@ -1,6 +1,8 @@
-![White Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/103903785/222642654-f5febfee-83fc-4dbe-ae0e-80f236ca516a.png)
+
 
 <h1 align="center">Hi 👋, I'm Noura Algohary</h1>
+
+![White Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/103903785/222642654-f5febfee-83fc-4dbe-ae0e-80f236ca516a.png)
 
 - 🔭 I’m currently working on **a computer vision project**
 
