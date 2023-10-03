@@ -4,15 +4,11 @@
 
 ![White Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/103903785/222642654-f5febfee-83fc-4dbe-ae0e-80f236ca516a.png)
 
-- 🔭 I’m currently working on **a computer vision project**
-
-- 🌱 I’m currently learning **Computer Vision**
-
 - 👯 I’m looking to collaborate on **real-world Data Science Projects**
 
 - 🤝 I’m looking for help with **gaining practical experience and building up my skills**
 
-- 💬 Ask me about **Data and ML**
+- 💬 Ask me about **Data Science and ML**
 
 - 📫 How to reach me **noura.malgohary@gmail.com**
 
