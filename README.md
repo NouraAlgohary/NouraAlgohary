@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Noura Algohary</h1>
 
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/NouraAlgohary/NouraAlgohary/assets/103903785/2be447ec-17ea-490e-be90-8c7e8fc02a82)
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/NouraAlgohary/NouraAlgohary/assets/103903785/f7786ede-3932-4fb2-b3f0-51166bf1de45)
 
 - 👯 I’m looking to collaborate on **real-world Data Science Projects**
 
