@@ -12,9 +12,12 @@
 <h2 align="left">Projects</h2>
 <h3 align="left">Data Analysis</h3>
 <h4 align="left">Power BI</h4>
-- AdventureWorks OLTP Data Analysis <a href="https://github.com/NouraAlgohary/AdventureWorks-OLTP-Data-Analysis">here</a> </br>
-- Sales Data Analysis <a href="https://github.com/NouraAlgohary/Sales-Analysis">here</a> </br>
-- FIFA World Cup Data Analysis <a href="https://github.com/NouraAlgohary/FIFA-World-Cup-Data-Analysis">here</a></br>
+<ul>
+  <li>AdventureWorks OLTP Data Analysis <a href="https://github.com/NouraAlgohary/AdventureWorks-OLTP-Data-Analysis">here</a></li>
+  <li>Sales Data Analysis <a href="https://github.com/NouraAlgohary/Sales-Analysis">here</a></li>
+  <li>FIFA World Cup Data Analysis <a href="https://github.com/NouraAlgohary/FIFA-World-Cup-Data-Analysis">here</a></li>
+</ul>
+
 
 <h4 align="left">Tableau</h4>
 <h3 align="left">Computer Vision</h3>
