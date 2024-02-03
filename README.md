@@ -11,6 +11,10 @@
 
 <h2 align="left">Projects</h2>
 <h3 align="left">Data Analysis</h3>
+<h4 align="left">Power BI</h4>
+- [FIFA World Cup Data Analysis](https://github.com/NouraAlgohary/FIFA-World-Cup-Data-Analysis)
+
+<h4 align="left">Tableau</h4>
 <h3 align="left">Computer Vision</h3>
 <h3 align="left">NLP</h3>
 <h3 align="left">Machine Learning</h3>
