@@ -12,7 +12,8 @@
 <h2 align="left">Projects</h2>
 <h3 align="left">Data Analysis</h3>
 <h4 align="left">Power BI</h4>
-- [FIFA World Cup Data Analysis](https://github.com/NouraAlgohary/FIFA-World-Cup-Data-Analysis)
+- <a href="https://github.com/NouraAlgohary/Sales-Analysis">Sales Data Analysis</a> </br>
+- <a href="https://github.com/NouraAlgohary/FIFA-World-Cup-Data-Analysis">FIFA World Cup Data Analysis</a></br>
 
 <h4 align="left">Tableau</h4>
 <h3 align="left">Computer Vision</h3>
