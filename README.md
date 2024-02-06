@@ -24,9 +24,17 @@
 <h3 align="left">NLP</h3>
 <h3 align="left">Machine Learning</h3>
 <h3 align="left">General</h3>
+<h4 align="left">OOP</h4>
+<ul>
+  <li>Crowd Funding Console App <a href="https://github.com/NouraAlgohary/Crowd-Funding-Console-App">here</a></li>
+</ul>
 <h4 align="left">Database</h4>
 <ul>
   <li>Entity Relationship Diagram Exmaples <a href="https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-">here</a></li>
+</ul>
+<h4 align="left">Web Scraping</h4>
+<ul>
+  <li>Web Scraping <a href="https://github.com/NouraAlgohary/Web-Scraping">here</a></li>
 </ul>
 
 <h2 align="left">Languages and Tools</h2>
