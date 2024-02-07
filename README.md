@@ -13,10 +13,16 @@
 <h3 align="left">Data Analysis</h3>
 <h4 align="left">Power BI</h4>
 <ul>
-  <li>AdventureWorks Data Analysis <a href="https://github.com/NouraAlgohary/AdventureWorks-Data-Analysis/blob/main/README.md">here</a></li>
-  <li>AdventureWorks OLTP Data Analysis <a href="https://github.com/NouraAlgohary/AdventureWorks-OLTP-Data-Analysis">here</a></li>
-  <li>Sales Data Analysis <a href="https://github.com/NouraAlgohary/Sales-Analysis">here</a></li>
-  <li>FIFA World Cup Data Analysis <a href="https://github.com/NouraAlgohary/FIFA-World-Cup-Data-Analysis">here</a></li>
+  </li>
+      <li>AdventureWorks Projects:
+        <ul>
+          <li>OLTP Data Analysis <a href="https://github.com/NouraAlgohary/AdventureWorks-OLTP-Data-Analysis">here</a></li>
+          <li>Data Analysis <a href="https://github.com/NouraAlgohary/AdventureWorks-Data-Analysis/blob/main/README.md">here</a></li>
+          <li>Overview-Operational Report-Inventory Report <a href="https://github.com/NouraAlgohary/AdventureWorks-Overview-OperationalReport-InventoryReport-/blob/main/README.md">here</a></li>
+        </ul>
+    <li>Sales Data Analysis <a href="https://github.com/NouraAlgohary/Sales-Analysis">here</a></li>
+    <li>FIFA World Cup Data Analysis <a href="https://github.com/NouraAlgohary/FIFA-World-Cup-Data-Analysis">here</a>
+  </li>
 </ul>
 
 
