@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noura Algohary</h1>
 
 
-- 👯 I’m looking to collaborate on **real-world Data Science Projects**
+- 👯 I’m looking to collaborate on **real-world Projects**
 
 - 🤝 I’m looking for help with **gaining practical experience and building up my skills**
 
