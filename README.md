@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **gaining practical experience and building up my skills**
 
-- 💬 Ask me about **Data Science and ML**
+- 💬 Ask me about **BI, Data Science and ML**
 
 - 📫 How to reach me **noura.malgohary@gmail.com**
 
