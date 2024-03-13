@@ -35,6 +35,10 @@
       <li>Gravity Book Sales ETLand Data Warehouse <a href="https://github.com/NouraAlgohary/Gravity-Books-ETL-and-Data-Warehouse/tree/main">here</a></li>
     </ul>
 <h3 align="left">Computer Vision</h3>
+        <ul>
+          <li>Plant Disease Detection <a href="https://github.com/NouraAlgohary/Plant-Disease-Detection">here</a></li>
+          <li>Soil Type Determination <a href="https://github.com/NouraAlgohary/Soil-Types-Determination">here</a></li>
+        </ul>
 <h3 align="left">NLP</h3>
 <h3 align="left">Machine Learning</h3>
 <h3 align="left">General</h3>
