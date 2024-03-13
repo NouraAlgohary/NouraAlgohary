@@ -38,9 +38,21 @@
         <ul>
           <li>Plant Disease Detection <a href="https://github.com/NouraAlgohary/Plant-Disease-Detection">here</a></li>
           <li>Soil Type Determination <a href="https://github.com/NouraAlgohary/Soil-Types-Determination">here</a></li>
+          <li>Cartoonify an Image <a href="https://github.com/NouraAlgohary/Internspedia">here</a></li>
         </ul>
 <h3 align="left">NLP</h3>
+        <ul>
+          <li>News Article Classifier <a href="https://github.com/NouraAlgohary/News-Article-Classifier">here</a></li>
+        </ul>
 <h3 align="left">Machine Learning</h3>
+        <ul>
+          <li>Soil Quality/Fertitility Prediction <a href="https://github.com/AgriWiseGP/ML---Soil-Quality">here</a></li>
+          <li>Crop Recommendation <a href="https://github.com/AgriWiseGP/ML--Crop-Recommendation">here</a></li>
+          <li>Fertilizer Prediction <a href="https://github.com/AgriWiseGP/ML---Fertilizer-Prediction">here</a></li>
+          <li>Fertilizer Prediction <a href="https://github.com/AgriWiseGP/ML---Fertilizer-Prediction">here</a></li>
+          <li>Machine Learning from Disaster <a href="https://github.com/NouraAlgohary/Titanic---Machine-Learning-from-Disaster">here</a></li>
+          <li>Finding Donors <a href="[https://github.com/AgriWiseGP/ML--Crop-Recommendation](https://github.com/NouraAlgohary/finding_donors)">here</a></li>
+        </ul>
 <h3 align="left">General</h3>
 <h4 align="left">OOP</h4>
 <ul>
