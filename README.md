@@ -51,7 +51,7 @@
           <li>Fertilizer Prediction <a href="https://github.com/AgriWiseGP/ML---Fertilizer-Prediction">here</a></li>
           <li>Fertilizer Prediction <a href="https://github.com/AgriWiseGP/ML---Fertilizer-Prediction">here</a></li>
           <li>Machine Learning from Disaster <a href="https://github.com/NouraAlgohary/Titanic---Machine-Learning-from-Disaster">here</a></li>
-          <li>Finding Donors <a href="[https://github.com/AgriWiseGP/ML--Crop-Recommendation](https://github.com/NouraAlgohary/finding_donors)">here</a></li>
+          <li>Finding Donors <a href="https://github.com/NouraAlgohary/finding_donors">here</a></li>
         </ul>
 <h3 align="left">General</h3>
 <h4 align="left">OOP</h4>
