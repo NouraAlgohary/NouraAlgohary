@@ -62,6 +62,7 @@
 <h4 align="left">Database</h4>
 <ul>
   <li>Entity Relationship Diagram Exmaples <a href="https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-">here</a></li>
+  <li>Leet Code SQL Server Solutions <a href="https://github.com/NouraAlgohary/leet-code/tree/main/MS%20SQL%20Server">here</a></li>
 </ul>
 <h4 align="left">Web Scraping</h4>
 <ul>
