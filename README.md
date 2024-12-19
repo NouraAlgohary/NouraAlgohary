@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Noura Algohary</h1>
 
 
-- 👯 I’m looking to collaborate on **real-world Projects**
+A Junior BI Developer with a year of experience transforming complex data into actionable insights. Proficient in building robust data models and creating clear, impactful visualizations. I have successfully supported sectors such as digital solutions, sales, finance, and real estate by delivering data-driven solutions that empower decision-making. Eager to contribute to innovative projects and collaborate with cross-functional teams to drive value.
 
-- 🤝 I’m looking for help with **gaining practical experience and building up my skills**
-
-- 💬 Ask me about **BI, Data Science and ML**
+- 💬 Ask me about **Data**
 
 - 📫 How to reach me **noura.malgohary@gmail.com**
 
