@@ -8,6 +8,11 @@ A Junior BI Developer with a year of experience transforming complex data into a
 - 📫 How to reach me **noura.malgohary@gmail.com**
 
 <h2 align="left">Projects</h2>
+<h3 align="left">Data Engineering</h3>
+<ul>
+          <li>Automated Data Pipeline with Docker, Python, and PostgreSQL <a href="https://github.com/NouraAlgohary/data-engineering-zoomcamp/tree/main/Module-1/Homework">here</a></li>
+        </ul>
+
 <h3 align="left">Data Analysis</h3>
 <h4 align="left">Power BI</h4>
 <ul>
