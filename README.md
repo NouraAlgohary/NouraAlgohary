@@ -13,7 +13,7 @@ A Junior BI Developer with a year of experience transforming complex data into a
           <li>Automated Data Pipeline with Docker, Python, and PostgreSQL <a href="https://github.com/NouraAlgohary/data-engineering-zoomcamp/tree/main/Module-1/Homework">here</a></li>
         </ul>
 
-<h3 align="left">Data Analysis</h3>
+<h3 align="left">Business Intelligence / Data Analysis</h3>
 <h4 align="left">Power BI</h4>
 <ul>
   </li>
