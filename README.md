@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noura Algohary</h1>
 
 
-A Junior BI Developer with a year of experience transforming complex data into actionable insights. Proficient in building robust data models and creating clear, impactful visualizations. I have successfully supported sectors such as digital solutions, sales, finance, and real estate by delivering data-driven solutions that empower decision-making. Eager to contribute to innovative projects and collaborate with cross-functional teams to drive value.
+Noura is a Business Intelligence Professional with 1+ years of experience extracting business value from data. Skilled in data analysis, BI tools, and cross-functional collaboration with data engineering teams. She has contributed to digital solutions, sales, and finance projects. Known for bridging technical expertise with business needs.
 
 - 💬 Ask me about **Data**
 
